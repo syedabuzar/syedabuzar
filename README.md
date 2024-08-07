@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Greetings, I am Muhammad Abuzar
 - 🔭 Skilled Software Engineer with extensive experience in both Web and Mobile Application Development | Strong problem-solving & continuous learner.
-- 📫 Please feel free to contact me via syed.abuzar.badar@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/syedabuzar1/ to discuss projects or any inquiries related to my skills and experience. I'm looking forward to connecting with you!
+- 📫 Please feel free to contact me via syed.abuzar.badar@gmail.com to discuss projects or any inquiries related to my skills and experience. I'm looking forward to connecting with you!
 
 
 ## Languages and Tools: 
